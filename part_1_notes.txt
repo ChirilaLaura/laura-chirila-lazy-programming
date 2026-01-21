@@ -1,0 +1,5 @@
+Setup differences (local vs. clear session)
+
+- Local: macOS terminal with zsh (% prompt) where the full path is visible (e.g., .../week0_spring2026/...).
+- Clear session: SSH prompt on agate ($) where the path is effectively obscured/abbreviated (shows ~), so you can’t see the full absolute directory path.
+
